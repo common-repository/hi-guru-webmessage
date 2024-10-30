@@ -1,0 +1,17 @@
+{
+    "name": "hi.guru/hi.guru-web-message",
+    "description": "hi.guru webmessage plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Jacodw",
+            "email": "33825141+Jacodw@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+        "psr-4":{"\\Inc_Higuru\\":"./inc"}
+    }
+}
